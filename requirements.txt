@@ -1,0 +1,10 @@
+ydata-profiling
+catboost
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+
+!pip freeze | grep -E 'ydata-profiling|catboost|pandas|matplotlib|seaborn|scikit-learn|xgboost|lightgbm' > requirements_versa_do_codigo.txt
