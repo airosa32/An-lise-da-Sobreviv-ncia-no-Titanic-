@@ -1,4 +1,4 @@
-#Análise da Sobrevivência no Titanic com Machine Learning
+<h1>Análise da Sobrevivência no Titanic com Machine Learning</h1>
 
 ✨ Análise da Sobrevivência no Titanic com Machine Learning
 Este projeto utiliza conceitos avançados de Ciência de Dados e Aprendizado de Máquina para analisar os fatores que influenciaram a sobrevivência dos passageiros do Titanic. Exploramos a relação entre idade, classe social e taxa de sobrevivência, além de testar diferentes modelos preditivos para determinar os melhores algoritmos para essa tarefa.
