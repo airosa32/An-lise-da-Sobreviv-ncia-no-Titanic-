@@ -1,9 +1,9 @@
 <h1>Análise da Sobrevivência no Titanic com Machine Learning</h1>
 
-✨ Análise da Sobrevivência no Titanic com Machine Learning
-Este projeto utiliza conceitos avançados de Ciência de Dados e Aprendizado de Máquina para analisar os fatores que influenciaram a sobrevivência dos passageiros do Titanic. Exploramos a relação entre idade, classe social e taxa de sobrevivência, além de testar diferentes modelos preditivos para determinar os melhores algoritmos para essa tarefa.
+<h3>✨ Análise da Sobrevivência no Titanic com Machine Learning</h3>
+Este projeto utiliza conceitos avançados de Ciência de Dados e Aprendizado de Máquina para analisar os fatores que influenciaram a sobrevivência dos passageiros do Titanic. Exploramos a relação entre idade, classe social e taxa de sobrevivência, além de testar diferentes modelos preditivos para determinar os melhores algoritmos para essa tarefa.<br>
 
-🔧 Tecnologias Utilizadas
+<h3>🔧 Tecnologias Utilizadas</h3>
 
 Python 🐍
 
@@ -17,9 +17,10 @@ XGBoost, LightGBM e CatBoost para otimização dos modelos preditivos
 
 SVM (Support Vector Machine) para classificação
 
-RandomForest para comparação de desempenho dos modelos
+RandomForest para comparação de desempenho dos modelos<br>
 
-📌 Principais Descobertas
+
+<h3>📌 Principais Descobertas</h3>
 
 📉 Idade e Classe Social tiveram grande impacto na sobrevivência.
 
@@ -27,9 +28,10 @@ RandomForest para comparação de desempenho dos modelos
 
 👩‍👧 Mulheres e crianças foram priorizadas nos resgates, refletindo a regra "mulheres e crianças primeiro".
 
-📊 O processo de feature selection ajudou a identificar as variáveis mais influentes na previsão da sobrevivência.
+📊 O processo de feature selection ajudou a identificar as variáveis mais influentes na previsão da sobrevivência.<br>
 
-🚀 Modelagem Preditiva
+
+<h3>🚀 Modelagem Preditiva</h3>
 
 Foram testados diferentes algoritmos de machine learning para prever a sobrevivência dos passageiros. Os modelos avaliados incluem:
 
@@ -43,9 +45,10 @@ RandomForest
 
 SVM (Support Vector Machine)
 
-🎉 O SVM apresentou o melhor desempenho na predição dos sobreviventes, com uma acurácia superior aos outros modelos!
+🎉 O SVM apresentou o melhor desempenho na predição dos sobreviventes, com uma acurácia superior aos outros modelos!<br>
 
-📂 Como Reproduzir o Projeto
+
+<h3>📂 Como Reproduzir o Projeto</h3>
 
 1️⃣ Clone este repositório:
 
@@ -57,9 +60,10 @@ pip install -r requirements.txt
 
 3️⃣ Execute o notebook Jupyter para visualizar as análises e modelos:
 
-jupyter notebook Titanic_Analysis.ipynb
+jupyter notebook Titanic_Analysis.ipynb<br>
 
-📊 Resultados
+
+<h3>📊 Resultados</h3>
 
 Este projeto demonstrou que fatores sociais e estruturais tiveram um grande impacto na taxa de sobrevivência dos passageiros do Titanic. Além disso, os modelos preditivos foram capazes de capturar padrões importantes nos dados, permitindo uma previsão eficiente da sobrevivência.
 
